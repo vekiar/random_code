@@ -5,4 +5,4 @@ Store for random bits of "exercise" code. Contains anything from "what if?" to c
 - [ ] Generate a token for a given string
 	- [ ] Reversible against a database / central authority
 	- [ ] Reversible without a central authority (is this tokenization?)
-- [ ] ...
+- [ ] Flip or keep: decision optimization
